@@ -1,0 +1,9 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index: index 300;
+}
+#video{
+    height:1000px;
+    width:100%;
+}
